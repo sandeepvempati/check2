@@ -1,0 +1,6 @@
+# It ignores all the files and folders inside the folders
+*/.idea/*
+
+#It will ignore all files inside the folder  .idea/*
+#It will ignore all txt files *.txt
+#It will ignore all files that has named video video.*
